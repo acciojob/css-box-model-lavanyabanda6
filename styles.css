@@ -1,8 +1,8 @@
 
 /* Your CSS Code here. */
-.p1{
-	background-color:lightblue;
-	padding:20px;
+div.p1{
+	background-color:rgb(173, 216, 230);
+	padding:50px;
 	width:300px;
 	border:15px solid blue;
 	margin:20px;
